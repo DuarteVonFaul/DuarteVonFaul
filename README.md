@@ -10,7 +10,7 @@
 ## Analytics
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DuarteVonFaul&show_icons=true&theme=radical"></a>&nbsp;
-<img height="150em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=DuarteVonFaul&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=7&hide_border=true"></a>&nbsp;
+<img height="150em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=DuarteVonFaul&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=10&hide_border=true"></a>&nbsp;
 </div>
 
 ## Tech Stacks & Tools 
